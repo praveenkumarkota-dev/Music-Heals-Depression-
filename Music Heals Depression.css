@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg_container {
+    background-image: url("https://img.freepik.com/free-photo/volumetric-musical-background-with-treble-clef-notes-generative-ai_169016-29576.jpg");
+    background-size: cover;
+    height: 100vh;
+    padding: 30px;
+
+}
+
+.main_card {
+    text-align: center;
+    background-image: url('https://img.freepik.com/free-photo/view-black-white-theatre-stage_23-2151184622.jpg');
+    background-size: cover;
+    border-top-left-radius: 301px;
+    border-bottom-right-radius: 301px;
+
+
+}
+
+.main_heading {
+    font-family: "caveat";
+    font-size: 30px;
+    font-weight: bolder;
+    color: #F25F5C;
+    margin: 60px;
+    font-style: bold;
+    #FFFFFF #555555 #FFE066gold
+}
+
+.ul_ {
+    list-style-type: None;
+    color: antiquewhite;
+    font-style: oblique;
+}
+
+.li_items {
+    margin: 15px;
+    color: #F8E71C;
+    font-style: italic;
+    font-size: 16px;
+
+}
+
+.bg_button {
+    margin: 30px;
+    font-style: italic;
+    font-size: 20px;
+    padding: 15px;
+}
+
+.bg_container_top {
+    background-image: url("https://img.freepik.com/free-vector/golden-music-notes-background-design_1017-33910.jpg");
+    background-size: cover;
+    height: 30vh;
+}
+
+.top_heading {
+    font-family: "caveat";
+    font-weight: bold;
+    font-size: 45px;
+    color: rgb(170, 131, 32);
+    text-align: center;
+
+}
+
+.bg_container_bottom {
+    background-image: url("https://img.freepik.com/free-photo/texture-treble-clef-dark-background-isolated-generative-ai_169016-29580.jpg");
+    background-size: cover;
+    padding: 20px;
+
+}
+
+.card_bottom {
+    background-color: black;
+    text-align: center;
+    width: 280px;
+    height: 230px;
+    padding: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    margin: 17px;
+
+}
+
+.naa_image {
+    height: 90px;
+    width: 120px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.naa_heading {
+    font-family: "bree serif";
+    font-weight: bold;
+    font-size: 18px;
+    font-style: italic;
+    color: #EAEAEA;
+    margin-top: 20px;
+}
+
+.naa_button {
+    font-size: 12px;
+    font-weight: bold;
+    font-family: 'Times New Roman';
+    font-style: oblique;
+    margin: 10px;
+
+}
+
+.bottom_button {
+    margin-top: 15px;
+}
+
+
+.bg_container_naa {
+    background-image: url("https://img.freepik.com/free-photo/electric-guitar-still-life_23-2151376299.jpg");
+    background-size: cover;
+    padding: 90px;
+}
+
+.naadetail_heading {
+    font-family: "roboto";
+    font-style: italic;
+    padding: 30px;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+
+.devotion {
+    color: #FFD700;
+    font-size: 40px;
+
+}
+
+.title {
+    color: #FFA500;
+}
+
+.li_ {
+    color: darkgrey;
+}
