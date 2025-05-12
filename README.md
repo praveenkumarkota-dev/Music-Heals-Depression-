@@ -1,25 +1,24 @@
-# 🌍 Tourism Places in India - Website
+# 🎵 Music Heals Depression - Website
 
-Explore the most beautiful places across India with this static website. Built using HTML, CSS, Flexbox, and Bootstrap.
+A motivational website that promotes emotional well-being through music was built with HTML, CSS, Flexbox, and Bootstrap.
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=praveenkumarkota-dev&label=Profile%20Views&color=0e75b6&style=flat)
 
 ## 🔗 Live Website  
-[Click to View](https://praveenkumarkota-dev.github.io/Tourism-Places-In-India/)
+[Click to View](https://praveenkumarkota-dev.github.io/music-heals-depression/)
 
 ---
 
 ## 🛠️ Tech Stack  
 - HTML  
-- CSS  
-- Bootstrap  
+- CSS
+- Flexbox
+- Bootstrap
 
 ---
 
 ## 🖼️ Project Preview  
-![Website Screenshot](./screenshot.png)
-
-> Upload your preview image as `screenshot.png` in the repo.
+![Website Screenshot](./Screenshot 1.png)
 
 ---
 
