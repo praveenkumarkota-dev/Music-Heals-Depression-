@@ -1,2 +1,2 @@
-# Music-Heals-Depression
-A motivational website built using HTML, CSS, and Bootstrap 
+# Music Heals Depression Website
+A motivational website built using HTML, CSS, Flexbox, and Bootstrap 
