@@ -18,7 +18,7 @@ A motivational website that promotes emotional well-being through music was buil
 ---
 
 ## 🖼️ Project Preview  
-![Website Screenshot](./Screenshot 1.png)
+![Website Screenshot](Screenshot 1.png)
 
 ---
 
